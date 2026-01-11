@@ -1,10 +1,10 @@
-## Oi, eu sou a Sophia Helena! 
+## Hi, I'm Sophia! 
 
 
 
-- 🔭 Sou estudante de Engenharia da Computação na PUC-Campinas
-- 🌱 Estudando Java BACK-END
-- ❤️ Amo aprender coisas novas!
+- 🔭 Computer Engineering Student at PUC-Campinas
+- 🌱 Learning Java Back-End;
+
   📩 e-mail: sophiahelena.leite@outlook.com
 
 <br>
