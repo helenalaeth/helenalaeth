@@ -7,13 +7,6 @@
 
   📩 e-mail: sophiahelena.leite@outlook.com
 
-<br>
-<div style="display:flex; gap:10px;">
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=helenalaeth&layout=compact&langs_count=8&card_width=300&theme=dracula" />
-</a>
-</div>
-<br>
 
 ## Tools and Languages 💻
 <div style="display:flex; gap:10px;">
