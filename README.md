@@ -3,7 +3,7 @@
 
 
 - 🔭 Computer Engineering Student at PUC-Campinas
-- 🌱 Learning Java Back-End;
+- 🌱 Learning Cybersecurity;
 
   📩 e-mail: sophiahelena.leite@outlook.com
 
