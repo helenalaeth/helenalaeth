@@ -3,7 +3,7 @@
 
 
 - 🔭 Computer Engineering Student at PUC-Campinas
-- 🌱 Learning Cybersecurity;
+
 
   📩 e-mail: sophiahelena.leite@outlook.com
   
